@@ -12,8 +12,8 @@ This project is a Flask-based chatbot that interacts with an SQLite database to 
 The chatbot uses Flask to handle user queries, processes them, and fetches data from the SQLite database. The chatbot responds based on pre-defined queries about employees, departments, and related details.
 
 ## Steps to Run Locally
-1. Open the Chatbot folder in the visual studio code and execute the following command in the terminal
-   <b> python app.py </b>
+1. Open the Chatbot folder in the visual studio code and execute the following command in the terminal 
+   \n <b> python app.py </b>
 2. Copy this URL http://127.0.0.1:5000 from the terminal.
 3. Paste it on the web browser
 
